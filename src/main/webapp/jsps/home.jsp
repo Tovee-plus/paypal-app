@@ -4,36 +4,35 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Mylandmark.Tech- Home Page</title>
+<title>Tovee Enterprises - Home Page</title>
 <link href="images/LT.JPG" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technology - Leaders in Software Delivery and DevOps Automation</h1>
-<h2 align="center"> Welcome to Landmark Technology.......We have a demo on DevOps E Degree with Linux and AWS  on Sunday Oct 9, 2022 at 3PM EST for our new batch. 
-	Landmark Technology Tesla web application project2. 
+<h1 align="center">Tovee -  At the forefront of ethical hacking and cybersecurity</h1>
+<h2 align="center"> Tovee Enterprises.......We aspire to give our best in all our endeavours. Our motivation is protcting your business
+        and giving you peace of mind as you go about your business
+	Tovee Enterprises trial script for html. 
 	</h2>
-	<h2 align="center" >DevOps is good. JESUS IS LORD. I AM BLESSED. Production</h2>
+	<h2 align="center" >JESUS IS LORD NOW AND FOREVER MORE. I AM BLESSED.</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/logo.png" alt="" width="250">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		Tovee Enterprises, 
+		Brampton, Canada
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:reachfunmiese@gmail.com">Mail to Ese</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center>Landmark Technologies - Consultant and Training.</p>
+<p align=center><small>Copyrights 2023 by <a href="http://toveeen/">Tovee Enterprises</a> </small></p>
 
 </body>
 </html>
